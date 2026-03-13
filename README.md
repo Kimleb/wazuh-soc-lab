@@ -1,9 +1,9 @@
 # Wazuh SOC Monitoring Lab
 
-This project demonstrates a Security Operations Center (SOC) monitoring environment using Wazuh.
+SOC Monitoring Lab using Wazuh for threat detection, log analysis, and security monitoring.
 
 ## Project Overview
-The lab simulates a real SOC where endpoints send logs to a Wazuh manager for analysis and threat detection.
+This project demonstrates a Security Operations Center (SOC) monitoring environment where endpoints send logs to a Wazuh manager for analysis and threat detection.
 
 ## Architecture
 - Wazuh Manager
