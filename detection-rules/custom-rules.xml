@@ -1,0 +1,6 @@
+<group name="custom_rules">
+  <rule id="100001" level="10">
+    <if_sid>5710</if_sid>
+    <description>SSH brute force attack detected</description>
+  </rule>
+</group>
