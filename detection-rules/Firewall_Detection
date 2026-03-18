@@ -1,0 +1,9 @@
+// This rule is used to configure firewall rule to drop a Potential bruteforce attack using Secure shell(ssh). //
+
+
+<active-response>
+  <command>firewall-drop</command>
+  <location>local</location>
+  <rules_id>5502,5501,5402</rules_id>
+  <timeout>60</timeout>
+</active-response>
